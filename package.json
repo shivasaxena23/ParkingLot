@@ -1,0 +1,14 @@
+{
+  "name": "parkinglot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
